@@ -12,4 +12,15 @@ public class Card {
         this.rank = rank;
     }
 
+    public int getScore() {
+        return score;
+    }
+
+    public String getSuit() {
+        return suit;
+    }
+
+    public String getRank() {
+        return rank;
+    }
 }
