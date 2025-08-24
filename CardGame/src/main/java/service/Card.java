@@ -13,6 +13,7 @@ public class Card {
     }
 
     public int getScore() {
+        System.out.println("xasa");
         return score;
     }
 
