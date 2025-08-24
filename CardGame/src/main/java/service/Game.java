@@ -31,10 +31,11 @@ public class Game {
 
     private void distribute(){
         for(int i = 0; i < 4; i++){
-            for(Player player:players){
-                Card card = deck.topCard();
-                player.addCard(card);
-            }
+            System.out.println("hell");
+            System.out.println("hell");
+            System.out.println("hell");
+            System.out.println("hell");
+            System.out.println("hell");
         }
     }
 
